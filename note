@@ -1,0 +1,1 @@
+curl -X POST -d '{"Sepal.Length":5.1, "Sepal.Width":3.5, "Petal.Length":1.4, "Petal.Width":0.2}' -H 'Content-Type: application/json' 35.229.211.138:8500/iris_pred
